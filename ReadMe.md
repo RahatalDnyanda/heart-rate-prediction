@@ -83,8 +83,8 @@ Before running the notebook, ensure you have the following installed:
 1. **Clone this repository**
 
    ```bash
-   git clone https://github.com/sangeetanandanvishal04/heart-rate-chd-prediction.git
-   cd heart-rate-chd-prediction
+   git clone https://github.com/RahatalDnyanda/heart-rate-prediction.git
+   cd heart-rate-prediction
    ```
 
 2. **Ensure your environment has the required packages**
